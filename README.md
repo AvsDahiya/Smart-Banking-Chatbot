@@ -1,4 +1,4 @@
-# Minor-Project
+# ML Banking Application Prototype
 Smart Banking Chat Bot- This is an AI based project which uses several ML algorithms for Natural Language Understanding which identifies intent and entities from user issues and generates dialogue.
 
 This project can help Banks to add chatbot in their web-application, so that customer can ask question to chatbot to Banks without visiting to Bank.
